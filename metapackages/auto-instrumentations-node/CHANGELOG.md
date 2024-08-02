@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.49.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.49.0...auto-instrumentations-node-v0.49.1) (2024-08-02)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/resource-detector-alibaba-cloud bumped from ^0.28.10 to ^0.29.0
+
 ## [0.49.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.48.0...auto-instrumentations-node-v0.49.0) (2024-07-23)
 
 
